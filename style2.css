@@ -1,0 +1,186 @@
+.flex-container {
+    display: flex;
+    justify-content: flex-end;
+    height: 70px;
+    align-items: center;
+  }
+  ul.flex-container > li {
+    list-style: none;
+    padding: 10px 10px;
+  }
+  .flex-container > li > a {
+    text-decoration: none;
+    font-size: 20px;
+  }
+  ul.flex-container > li:hover {
+    background-color: rgb(245, 182, 229);
+  }
+  .image {
+    border-radius: 50%;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  .flex-outer {
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+  }
+  .image2{
+    height: 350px;
+    border-radius: 60%;
+  }
+  .flex-OtrScn{
+    display:flex;
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 478px;
+    margin:auto;
+  }
+  .Btn{
+    width: 120px;
+    height: 38px;
+    border-radius: 18px;
+    border: 1px solid #4a10e9;
+    border: none;
+  }
+  .Link{
+    font-size: x-large;
+    text-decoration: none;
+    color: rgb(146, 6, 76);
+    background-color: yellow;
+    margin-left: 40px;
+  }
+  .Pg1{
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+  }
+  .Pg1>h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+  }
+  .Pg1>p{
+    font-size: x-large;
+    color: rgb(96, 8, 96);
+  }
+  .Pg2{
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+  }
+  .Pg2>h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+  }
+  .Pg2>h2{
+    font-size: 35px;
+    color: rgb(96, 8, 96); 
+  }
+  .Pg2>ul{
+    list-style-type: circle;
+    font-size: x-large;
+    color: purple;
+  }
+  .Pc{
+    float: right;
+      height: 350px;
+      margin-top: -200px;
+      margin-right: 190px;
+      width: 40%;
+    }
+    .Pg2{
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+  }
+  .Pg2>h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+  }
+  .Pg2>h2{
+    font-size: 35px;
+    color: rgb(96, 8, 96); 
+  }
+  .Pg2>ul{
+    list-style-type: circle;
+    font-size: x-large;
+    color: purple;
+  }
+  .Pg3{
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+  }
+  .Pg3>h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+  }
+  .Pg3>h2{
+    font-size: 35px;
+    color: rgb(96, 8, 96); 
+  }
+  .Pg3>ol{
+    font-size: x-large;
+    color: purple;
+  }
+  .Lnk{
+    font-size: x-large;
+    text-decoration: none;
+    color: rgb(146, 6, 76);
+    background-color: yellow;
+    margin-left: 150px;
+  }
+  .Pg4{
+    background-image: url("BgImgPtf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 595px;
+  }
+  .Pg4>h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+  }
+  .Pg4>h2{
+    font-size: 35px;
+    color: rgb(96, 8, 96); 
+  }
+  .Pg4>p{
+    font-size: x-large;
+    color: rgb(96, 8, 96);
+  }
+  .edPc{
+      float: right;
+      height: 200px;
+      margin-top: -2px;
+      margin-right: 190px;
+      width: 40%;
+    }
+    .Pg5{
+      background-image: url("BgImgPtf.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 590px;
+    }
+    .Pg5>h1{
+      text-align: center;
+      font-size: 50px;
+      color: red;
+    }
+    .Cnt{
+      background-color: rgb(238, 162, 162);
+      margin-left: 340px;
+      margin-top: 80px;
+      height: 350px;
+      width: 45%;
+    }
